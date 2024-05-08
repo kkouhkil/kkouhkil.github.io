@@ -4,7 +4,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 
 ### Education
 - **PhD**, Informatics | University of Edinburgh (2017 - 2021)
-- **MSc**, Robotics | University of Birmingham (2014 - 2015)
+- **MSc**, Robotics    | University of Birmingham (2014 - 2015)
 
 ### Work Experience
 Research Associate and Entrepreneurship Fellow @ University of Edinburgh
