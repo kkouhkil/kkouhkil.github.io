@@ -1,4 +1,4 @@
-# Research Associate
+## Research Associate & Entrepreneurship Fellow
 
 ### Education
 Informatics, PhD
