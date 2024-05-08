@@ -1,4 +1,4 @@
-<img src="/assets/img/Keyhan_Kouhkiloui.png" align="right" height="50%" width="12.5%"/>
+<img src="/assets/img/Keyhan_Kouhkiloui.png" align="right" width="20%"/>
 
 ## Research Associate & Entrepreneurship Fellow
 
