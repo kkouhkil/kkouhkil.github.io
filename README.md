@@ -1,7 +1,8 @@
 ## Research Associate & Entrepreneurship Fellow
 
 ### Education
-Informatics, PhD
+- **Doctor of Philosophy (PhD)**, **Informatics** | University of Edinburgh (2017 - 2021)
+- **Master of Science (MSc)**, **Robotics** | University of Birmingham (2014 - 2015)
 
 ### Work Experience
 Research Associate and Entrepreneurship Fellow @ University of Edinburgh
