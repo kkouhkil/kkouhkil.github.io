@@ -1,9 +1,8 @@
-gems:
-  - jemoji
-  - jekyll-paginate
-
 title: "Keyhan Kouhkiloui"
+
 logo: /assets/img/Keyhan_Kouhkiloui.png
+float_logo: true
+
 description: Robotics Research Scientist
 
 email: kkouhkil@ed.ac.uk
