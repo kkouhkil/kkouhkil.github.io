@@ -22,9 +22,11 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 </table>
 
 ## Qualification
-- **PhD**, Informatics | University of Edinburgh (2017 - 2021)
+- **PhD**, Informatics | <p style="text-align: center;">University of Edinburgh (2017 - 2021)</p> 
 - **MSc**, Robotics    | University of Birmingham (2014 - 2015)
 - **Academic Scholarship** | University of Edinburgh (2017 - 2021)
+
+
 
 ## Work Experience
 - Research Associate and Entrepreneurship Fellow | University of Edinburgh (2021 - present)
