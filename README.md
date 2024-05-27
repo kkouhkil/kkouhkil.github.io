@@ -27,7 +27,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 - **Academic Scholarship** | University of Edinburgh (2017 - 2021)
 
 ## Work Experience
-Research Associate and Entrepreneurship Fellow | University of Edinburgh (2021 - present)
+- Research Associate and Entrepreneurship Fellow | University of Edinburgh (2021 - present)
 
 ### Projects
 - [**Harmony EU-H2020**](https://cordis.europa.eu/project/id/101017008) - Enhancing healthcare with assistive robotic mobile manipulation:
