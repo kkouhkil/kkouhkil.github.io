@@ -9,15 +9,15 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 
  [Google scholar](https://scholar.google.com/citations?user=jOY4TnoAAAAJ&hl=en) / [Linkedin](https://www.linkedin.com/in/keyhankouhkiloui/) / [Github](https://github.com/kkouhkil) / [Youtube](https://www.youtube.com/channel/UC0ef04l514E67B-qqpSrIDQ)
 
-### Qualification
+## Qualification
 - **PhD**, Informatics | University of Edinburgh (2017 - 2021)
 - **MSc**, Robotics    | University of Birmingham (2014 - 2015)
 - **Academic Scholarship** | University of Edinburgh (2017 - 2021)
 
-### Work Experience
+## Work Experience
 Research Associate and Entrepreneurship Fellow @ University of Edinburgh
 
-## Projects
+### Projects
 - [**Harmony EU-H2020**](https://cordis.europa.eu/project/id/101017008) - Enhancing healthcare with assistive robotic mobile manipulation:
     - Developing robust and compliant whole-body motion planning and control for interacting with unknown objects
 - [**THING EU-H2020**](https://cordis.europa.eu/project/id/780883) - subTerranean Haptic INvestiGator:
@@ -25,7 +25,7 @@ Research Associate and Entrepreneurship Fellow @ University of Edinburgh
 - [**CogIMon EU-H2020**](https://cordis.europa.eu/project/id/644727) - Cognitive Interaction in Motion:
     - Carrying out extensive research and proposing control algorithms for proximate human-robot interaction/collaboration/cooperation using single-arm and dual-arm manipulators for real-world robotic applications
 
-### Activities
+## Activities
  - Teaching Support Provider | University of Edinburgh (2017 - 2021)     
  - IPAB (Institute of Perception, Action and Behaviour) Student Representative | University of Edinburgh (2019 - 2021)
  - SSLC (Staff Student Liaison Committee) Student Representative | University of Edinburgh (2019 -2021)
