@@ -9,7 +9,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 
  [Google scholar](https://scholar.google.com/citations?user=jOY4TnoAAAAJ&hl=en) / [Linkedin](https://www.linkedin.com/in/keyhankouhkiloui/) / [Github](https://github.com/kkouhkil) / [Youtube](https://www.youtube.com/channel/UC0ef04l514E67B-qqpSrIDQ)
 
-### Education
+### Qualification
 - **PhD**, Informatics | University of Edinburgh (2017 - 2021)
 - **MSc**, Robotics    | University of Birmingham (2014 - 2015)
 - **Academic Scholarship** | University of Edinburgh (2017-2021)
@@ -17,7 +17,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 ### Work Experience
 Research Associate and Entrepreneurship Fellow @ University of Edinburgh
 
-### Projects
+## Projects
 - **Harmony EU-H2020:** Enhancing healthcare with assistive robotic mobile manipulation
 - **THING EU-H2020:** subTerranean Haptic INvestiGator
 - **CogIMon EU-H2020:** Cognitive Interaction in Motion
