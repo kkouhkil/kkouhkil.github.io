@@ -80,7 +80,17 @@ td, th {border:hidden;}
 
  </td>
 </tr>
+<!--  -->
+<tr>
+    <td style = ""><img src=""/></td>
+    <td> <b> + Bio-mimetic Adaptive Force/Position Control Using Fractal Impedance: </b> <br>
+    <p align="justify">
+        The ability of animals to interact with complex dynamics is unmatched in robots. Especially important to the interaction performances is the online adaptation of body dynamics, which can be modelled as an impedance behaviour. However, variable impedance control still continues to be a challenge in the current control frameworks due to the difficulties of retaining stability when adapting the controller gains. The fractal impedance controller has recently been proposed to solve this issue. However, it still has limitations such as sudden jumps in force when it starts to converge to the desired position and the lack of a force feedback loop. In this manuscript, two improvements are made to the control framework to solve these limitations. The force discontinuity has been addressed introducing a modulation of the impedance via a virtual antagonist that modulates the output force. The force tracking has been modelled after the parallel force/position controller architecture. In contrast to traditional methods, the fractal impedance controller enables the implementation of a search algorithm on the force feedback to adapt its behaviour to the external environment instead of on relying on a priori knowledge of the external dynamics. Preliminary simulation results presented in this paper show the feasibility of the proposed approach, and it allows to evaluate the trade-off that needs to be made when relying on the proposed controller for interaction. In conclusion, the proposed method mimics the behaviour of an agonist/antagonist system adapting to unknown external dynamics, and it may find application in computational neuroscience, haptics, and interaction control.
+    </p>
+<br> <a href="https://www.youtube.com/watch?v=s9nZhdXdGfg"> <b>Video</b></a> &emsp; &emsp;
+ <a href="https://ieeexplore.ieee.org/abstract/document/9224377"> <b>Paper</b></a>  
 
-
+ </td>
+</tr>
 
 
