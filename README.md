@@ -18,9 +18,15 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 Research Associate and Entrepreneurship Fellow @ University of Edinburgh
 
 ## Projects
-- [**Harmony EU-H2020**](https://cordis.europa.eu/project/id/101017008) Enhancing healthcare with assistive robotic mobile manipulation:
+- [**Harmony EU-H2020**](https://cordis.europa.eu/project/id/101017008) - Enhancing healthcare with assistive robotic mobile manipulation:
     - Developing robust and compliant whole-body motion planning and control for interacting with unknown objects
-- [**THING EU-H2020**](https://cordis.europa.eu/project/id/780883) subTerranean Haptic INvestiGator:
+- [**THING EU-H2020**](https://cordis.europa.eu/project/id/780883) - subTerranean Haptic INvestiGator:
     - Developing bilateral tele-manipulation control algorithms for human-robot tele-cooperation using single-arm and dual-arm manipulators in non-ideal control conditions
-- [**CogIMon EU-H2020**](https://cordis.europa.eu/project/id/644727) Cognitive Interaction in Motion:
+- [**CogIMon EU-H2020**](https://cordis.europa.eu/project/id/644727) - Cognitive Interaction in Motion:
     - Carrying out extensive research and proposing control algorithms for proximate human-robot interaction/collaboration/cooperation using single-arm and dual-arm manipulators for real-world robotic applications
+
+### Activities
+ - Teaching Support Provider | University of Edinburgh (2017 - 2021)     
+ - IPAB (Institute of Perception, Action and Behaviour) Student Representative | University of Edinburgh (2019 - 2021)
+ - SSLC (Staff Student Liaison Committee) Student Representative | University of Edinburgh (2019 -2021)
+ - BARC (Birmingham Autonomous Robotic Club) Active Member | Uniersity of Birmingham (2014 - 2015)
