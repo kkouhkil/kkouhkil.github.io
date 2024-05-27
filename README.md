@@ -12,12 +12,15 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 ### Qualification
 - **PhD**, Informatics | University of Edinburgh (2017 - 2021)
 - **MSc**, Robotics    | University of Birmingham (2014 - 2015)
-- **Academic Scholarship** | University of Edinburgh (2017-2021)
+- **Academic Scholarship** | University of Edinburgh (2017 - 2021)
 
 ### Work Experience
 Research Associate and Entrepreneurship Fellow @ University of Edinburgh
 
 ## Projects
-- **Harmony EU-H2020:** Enhancing healthcare with assistive robotic mobile manipulation
-- **THING EU-H2020:** subTerranean Haptic INvestiGator
-- **CogIMon EU-H2020:** Cognitive Interaction in Motion
+- **Harmony EU-H2020:** Enhancing healthcare with assistive robotic mobile manipulation:
+    - Developing robust and compliant whole-body motion planning and control for interacting with unknown objects
+- **THING EU-H2020:** subTerranean Haptic INvestiGator:
+    - Developing bilateral tele-manipulation control algorithms for human-robot tele-cooperation using single-arm and dual-arm manipulators in non-ideal control conditions
+- **CogIMon EU-H2020:** Cognitive Interaction in Motion:
+    - Carrying out extensive research and proposing control algorithms for proximate human-robot interaction/collaboration/cooperation using single-arm and dual-arm manipulators for real-world robotic applications
