@@ -14,15 +14,16 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 
  ## Recent Work
 
- <table style="border:hidden;cellspacing=0; cellpadding=0;">
-  <tr>
-    <!-- <td width = "33%"><img src="./imgs/Simul.gif"/></td> -->
-    <td width = "50%"><img src="/assets/img/eva_harmony.gif"/></td>
-    <td width = "50%"><img src="/assets/img/yumi_harmony.gif"/></td>
-    <!-- <td width = "33%"><img src="./imgs/Nextage.gif"/></td> -->
-  </tr>
-
-  </table>
+<table style="border:hidden;cellspacing=0; cellpadding=0;">
+    <tr>
+        <td width = "50%"><img src="/assets/img/eva_harmony.gif"/></td>
+        <td width = "50%"><img src="/assets/img/yumi_harmony.gif"/></td>
+    </tr>
+    <tr>
+        <td width = "50%"><img src="/assets/img/dual_arm_franka_harmony.gif"/></td>
+        <td width = "50%"><img src="/assets/img/soft_robot_harmony.gif"/></td>
+    </tr>
+</table>
 
 ## Qualification
 - **PhD**, Informatics | University of Edinburgh (2017 - 2021)
