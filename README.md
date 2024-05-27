@@ -8,6 +8,17 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 
  [Google scholar](https://scholar.google.com/citations?user=jOY4TnoAAAAJ&hl=en) / [Linkedin](https://www.linkedin.com/in/keyhankouhkiloui/) / [Github](https://github.com/kkouhkil) / [Youtube](https://www.youtube.com/channel/UC0ef04l514E67B-qqpSrIDQ)
 
+ ## Recent Work
+ <table style="border:hidden;cellspacing=0; cellpadding=0;">
+  <tr>
+    <!-- <td width = "33%"><img src="./imgs/Simul.gif"/></td> -->
+    <td width = "50%"><img src="/assets/img/eva_harmony.gif"/></td>
+    <td width = "50%"><img src="/assets/img/yumi_harmony.gif"/></td>
+    <!-- <td width = "33%"><img src="./imgs/Nextage.gif"/></td> -->
+  </tr>
+
+  </table>
+
 ## Qualification
 - **PhD**, Informatics | University of Edinburgh (2017 - 2021)
 - **MSc**, Robotics    | University of Birmingham (2014 - 2015)
