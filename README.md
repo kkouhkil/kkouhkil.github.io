@@ -20,7 +20,7 @@ Research Associate and Entrepreneurship Fellow @ University of Edinburgh
 ## Projects
 - **Harmony EU-H2020:** Enhancing healthcare with assistive robotic mobile manipulation:
     - Developing robust and compliant whole-body motion planning and control for interacting with unknown objects
-- **THING EU-H2020:** subTerranean Haptic INvestiGator:
+- [**THING EU-H2020**](https://cordis.europa.eu/project/id/780883) subTerranean Haptic INvestiGator:
     - Developing bilateral tele-manipulation control algorithms for human-robot tele-cooperation using single-arm and dual-arm manipulators in non-ideal control conditions
-- [**CogIMon EU-H2020**](https://cordis.europa.eu/project/id/644727): Cognitive Interaction in Motion:
+- [**CogIMon EU-H2020**](https://cordis.europa.eu/project/id/644727) Cognitive Interaction in Motion:
     - Carrying out extensive research and proposing control algorithms for proximate human-robot interaction/collaboration/cooperation using single-arm and dual-arm manipulators for real-world robotic applications
