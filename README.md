@@ -7,7 +7,6 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 <img src="/assets/img/website_title_HRI.png" align="center" width="100%"/>
 
 <br />
-<br />
 
  [Google scholar](https://scholar.google.com/citations?user=jOY4TnoAAAAJ&hl=en) / [Linkedin](https://www.linkedin.com/in/keyhankouhkiloui/) / [Github](https://github.com/kkouhkil) / [Youtube](https://www.youtube.com/channel/UC0ef04l514E67B-qqpSrIDQ)
 
