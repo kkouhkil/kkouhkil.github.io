@@ -44,7 +44,7 @@ td, th {border:hidden;}
     <th style="width:45%"></th>
     <th></th>
 </tr>
-
+<!--  -->
 <tr>
     <td style = ""><img src=""/></td>
     <td> <b> + Fractal impedance for passive controllers: a framework for interaction robotics: </b> <br>
@@ -56,7 +56,7 @@ td, th {border:hidden;}
 
  </td>
 </tr>
-
+<!--  -->
 <tr>
     <td style = ""><img src=""/></td>
     <td> <b> + Robust High-Transparency Haptic Exploration for Dexterous Telemanipulation: </b> <br>
@@ -68,17 +68,19 @@ td, th {border:hidden;}
 
  </td>
 </tr>
-
+<!--  -->
 <tr>
     <td style = ""><img src=""/></td>
-    <td> <b> + Robust and Dexterous Dual-arm Tele-Cooperation using Adaptable Impedance Control: </b> <br>
+    <td> <b> + HapFIC - An Adaptive Force/Position Controller for Safe Environment Interaction in Articulated Systems: </b> <br>
     <p align="justify">
-        In recent years, the need for robots to transition from isolated industrial tasks to shared environments, including human-robot collaboration and teleoperation, has become increasingly evident. Building on the foundation of Fractal Impedance Control (FIC) introduced in our previous work, this paper presents a novel extension to dual-arm tele-cooperation, leveraging the non-linear stiffness and passivity of FIC to adapt to diverse cooperative scenarios. Unlike traditional impedance controllers, our approach ensures stability without relying on energy tanks, as demonstrated in our prior research. In this paper, we further extend the FIC framework to bimanual operations, allowing for stable and smooth switching between different dynamic tasks without gain tuning. We also introduce a telemanipulation architecture that offers higher transparency and dexterity, addressing the challenges of signal latency and low-bandwidth communication. Through extensive experiments, we validate the robustness of our method and the results confirm the advantages of the FIC approach over traditional impedance controllers, showcasing its potential for applications in planetary exploration and other scenarios requiring dexterous telemanipulation. This paper's contributions include the seamless integration of FIC into multi-arm systems, the ability to perform robust interactions in highly variable environments, and the provision of a comprehensive comparison with competing approaches, thereby significantly enhancing the robustness and adaptability of robotic systems.
+        Haptic interaction is essential for the dynamic dexterity of animals, which seamlessly switch from an impedance to an admittance behaviour using the force feedback from their proprioception. However, this ability is extremely challenging to reproduce in robots, especially when dealing with complex interaction dynamics, distributed contacts, and contact switching. Current model-based controllers require accurate interaction modelling to account for contacts and stabilise the interaction. In this manuscript, we propose an adaptive force/position controller that exploits the fractal impedance controller's passivity and non-linearity to execute a finite search algorithm using the force feedback signal from the sensor at the end-effector. The method is computationally inexpensive, opening the possibility to deal with distributed contacts in the future. We evaluated the architecture in physics simulation and showed that the controller can robustly control the interaction with objects of different dynamics without violating the maximum allowable target forces or causing numerical instability even for very rigid objects. The proposed controller can also autonomously deal with contact switching and may find application in multiple fields such as legged locomotion, rehabilitation and assistive robotics.
     </p>
-<br> <a href="https://www.youtube.com/watch?v=tHZ806Tjdb0"> <b>Video</b></a> &emsp; &emsp;
- <a href="https://arxiv.org/abs/2108.04567"> <b>Paper</b></a>  
+<br> <a href="https://www.youtube.com/watch?v=3FsVDZOIR1k"> <b>Video</b></a> &emsp; &emsp;
+ <a href="https://ieeexplore.ieee.org/abstract/document/9490214"> <b>Paper</b></a>  
 
  </td>
 </tr>
+
+
 
 
