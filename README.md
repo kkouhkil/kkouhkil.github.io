@@ -69,4 +69,16 @@ td, th {border:hidden;}
  </td>
 </tr>
 
+<tr>
+    <td style = ""><img src=""/></td>
+    <td> <b> + Robust and Dexterous Dual-arm Tele-Cooperation using Adaptable Impedance Control: </b> <br>
+    <p align="justify">
+        In recent years, the need for robots to transition from isolated industrial tasks to shared environments, including human-robot collaboration and teleoperation, has become increasingly evident. Building on the foundation of Fractal Impedance Control (FIC) introduced in our previous work, this paper presents a novel extension to dual-arm tele-cooperation, leveraging the non-linear stiffness and passivity of FIC to adapt to diverse cooperative scenarios. Unlike traditional impedance controllers, our approach ensures stability without relying on energy tanks, as demonstrated in our prior research. In this paper, we further extend the FIC framework to bimanual operations, allowing for stable and smooth switching between different dynamic tasks without gain tuning. We also introduce a telemanipulation architecture that offers higher transparency and dexterity, addressing the challenges of signal latency and low-bandwidth communication. Through extensive experiments, we validate the robustness of our method and the results confirm the advantages of the FIC approach over traditional impedance controllers, showcasing its potential for applications in planetary exploration and other scenarios requiring dexterous telemanipulation. This paper's contributions include the seamless integration of FIC into multi-arm systems, the ability to perform robust interactions in highly variable environments, and the provision of a comprehensive comparison with competing approaches, thereby significantly enhancing the robustness and adaptability of robotic systems.
+    </p>
+<br> <a href="https://www.youtube.com/watch?v=tHZ806Tjdb0"> <b>Video</b></a> &emsp; &emsp;
+ <a href="https://arxiv.org/abs/2108.04567"> <b>Paper</b></a>  
+
+ </td>
+</tr>
+
 
