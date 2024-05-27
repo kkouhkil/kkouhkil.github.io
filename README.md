@@ -30,3 +30,19 @@ Research Associate and Entrepreneurship Fellow @ University of Edinburgh
  - IPAB (Institute of Perception, Action and Behaviour) Student Representative | University of Edinburgh (2019 - 2021)
  - SSLC (Staff Student Liaison Committee) Student Representative | University of Edinburgh (2019 -2021)
  - BARC (Birmingham Autonomous Robotic Club) Active Member | Uniersity of Birmingham (2014 - 2015)
+
+## Research and Publication
+
+<style>
+table, tr {border:hidden;}
+td, th {border:hidden;}
+</style>
+
+<table style="border:hidden;cellspacing=0; cellpadding=0;">
+
+<tr>
+    <th style="width:45%"></th>
+    <th></th>
+</tr>
+
+
