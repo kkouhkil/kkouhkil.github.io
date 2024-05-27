@@ -45,6 +45,20 @@ td, th {border:hidden;}
     <th></th>
 </tr>
 <!--  -->
+
+<!--  -->
+<tr>
+    <td style = ""><img src=""/></td>
+    <td> <b> + A Projected Inverse Dynamics Approach for Multi-Arm Cartesian Impedance Control: </b> <br>
+    <p align="justify">
+        We propose a model-based control framework for multi-arm manipulation of a rigid object subject to external disturbances. The control framework, based on projected inverse dynamics, decomposes the control law into constrained and unconstrained subspaces. Unconstrained components accomplish the motion task with a desired 6-DOF Cartesian impedance behaviour against external disturbances. Meanwhile, the constrained component enforces contact and friction constraints by optimising for contact forces within the constrained subspace. External disturbances are explicitly compensated for without using force/torque sensors at the contact points. The approach is evaluated on a dual-arm platform manipulating a rigid object while coping with unknown object dynamics and human interaction.
+    </p>
+<br> <a href="https://www.youtube.com/watch?v=KZSfKo8h37E"> <b>Video</b></a> &emsp; &emsp;
+ <a href="https://ieeexplore.ieee.org/abstract/document/8461202"> <b>Paper</b></a>  
+
+ </td>
+</tr>
+<!--  -->
 <tr>
     <td style = ""><img src=""/></td>
     <td> <b> + Fractal impedance for passive controllers: a framework for interaction robotics: </b> <br>
