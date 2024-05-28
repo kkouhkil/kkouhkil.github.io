@@ -143,7 +143,7 @@ td, th {border:hidden;}
 </tr>
 <!--  -->
 <tr>
-    <td style = ""><img src=""/></td>
+    <td style = ""><img src="/assets/img/data_efficient_neural_ODE.gif"/></td>
     <td> <b> + Data-efficient Non-parametric Modelling and Control of an Extensible Soft Manipulator: </b> <br>
     <p align="justify">
         Data-driven approaches have shown promising results in modeling and controlling robots, specifically soft and flexible robots where developing physics-based models are more challenging. However, these methods often require a large number of real data, and gathering such data is time-consuming and can damage the robot as well. This paper proposed a novel data-efficient and non-parametric approach to develop a continuous model using a small dataset of real robot demonstrations (only 25 points). To the best of our knowledge, the proposed approach is the most sample-efficient method for soft continuum robot. Furthermore, we employed this model to develop a controller to track arbitrary trajectories in the feasible kinematic space. To show the performance of the proposed approach, a set of trajectory-tracking experiments has been conducted. The results showed that the robot was able to track the references precisely even in presence of external loads (up to 25 grams). Moreover, fine object manipulation experiments were performed to demonstrate the effectiveness of the proposed method in real-world tasks. Finally, we compared its performance with common data-driven approaches in seen/useen-before trajectory tracking scenarios. The results validated that the proposed approach significantly outperformed the existing approaches in unseen-before scenarios and offered similar performance in seen-before scenarios.
@@ -155,7 +155,7 @@ td, th {border:hidden;}
 </tr>
 <!--  -->
 <tr>
-    <td style = ""><img src=""/></td>
+    <td style = ""><img src="/assets/img/data_efficient_N_ODE_Optimal_Control_of_Soft_Manipulators.gif"/></td>
     <td> <b> + A Data-efficient Neural ODE Framework for Optimal Control of Soft Manipulators: </b> <br>
     <p align="justify">
         This paper introduces a novel approach for modeling continuous forward kinematic models of soft continuum robots by employing Augmented Neural ODE (ANODE), a cutting-edge family of deep neural network models. To the best of our knowledge, this is the first application of ANODE in modeling soft continuum robots. This formulation introduces auxiliary dimensions, allowing the system's states to evolve in the augmented space which provides a richer set of dynamics that the model can learn, increasing the flexibility and accuracy of the model. Our methodology achieves exceptional sample efficiency, training the continuous forward kinematic model using only 25 scattered data points. Additionally, we design and implement a fully parallel Model Predictive Path Integral (MPPI)-based controller running on a GPU, which efficiently manages a non-convex objective function. Through a set of experiments, we showed that the proposed framework (ANODE+MPPI) significantly outperforms state-of-the-art learning-based methods such as FNN and RNN in unseen-before scenarios and marginally outperforms them in seen-before scenarios.
