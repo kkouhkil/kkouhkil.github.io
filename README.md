@@ -59,7 +59,7 @@ td, th {border:hidden;}
 <!--  -->
 
 <tr>
-    <td style = ""><img src=""/></td>
+    <td style = ""><img src="/assets/img/fractal_impedance_control.gif"/></td>
     <td> <b> + Fractal impedance for passive controllers: a framework for interaction robotics: </b> <br>
     <p align="justify">
         There is increasing interest in control frameworks capable of moving robots from industrial cages to unstructured environments and coexisting with humans. Despite significant improvement in some specific applications (e.g., medical robotics), there is still the need for a general control framework that improves interaction robustness and motion dynamics. Passive controllers show promising results in this direction; however, they often rely on virtual energy tanks that can guarantee passivity as long as they do not run out of energy. In this paper, a Fractal Attractor is proposed to implement a variable impedance controller that can retain passivity without relying on energy tanks. The controller generates a Fractal Attractor around the desired state using an asymptotic stable potential field, making the controller robust to discretization and numerical integration errors. The results prove that it can accurately track both trajectories and end-effector forces during interaction. Therefore, these properties make the controller ideal for applications requiring robust dynamic interaction at the end-effector.
