@@ -76,7 +76,7 @@ td, th {border:hidden;}
     <p align="justify">
         Robotic teleoperation provides human-in-the-loop capabilities of complex manipulation tasks in dangerous or remote environments, such as for planetary exploration or nuclear decommissioning. This work proposes a novel telemanipulation architecture using a passive Fractal Impedance Controller (FIC), which does not depend upon an active viscous component for guaranteeing stability. Compared to a traditional impedance controller in ideal conditions (no delays and maximum communication bandwidth), our proposed method yields higher transparency in interaction and demonstrates superior dexterity and capability in our telemanipulation test scenarios. We also validate its performance with extreme delays up to 1 s and communication bandwidths as low as 10 Hz. All results validate a consistent stability when using the proposed controller in challenging conditions, regardless of operator expertise.
     </p>
-<br> <a href="https://www.youtube.com/watch?v=6jDfvtxyab0"> <b>Video</b></a> &emsp; &emsp;
+<br> <a href="https://www.youtube.com/watch?v=IIIjyDKxCtc"> <b>Video</b></a> &emsp; &emsp;
  <a href="https://ieeexplore.ieee.org/abstract/document/9561968"> <b>Paper</b></a>  
 
  </td>
