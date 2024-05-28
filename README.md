@@ -71,7 +71,7 @@ td, th {border:hidden;}
 </tr>
 <!--  -->
 <tr>
-    <td style = ""><img src=""/></td>
+    <td style = ""><img src="/assets/img/fractal_impedance_control_tele_op.gif"/></td>
     <td> <b> + Robust High-Transparency Haptic Exploration for Dexterous Telemanipulation: </b> <br>
     <p align="justify">
         Robotic teleoperation provides human-in-the-loop capabilities of complex manipulation tasks in dangerous or remote environments, such as for planetary exploration or nuclear decommissioning. This work proposes a novel telemanipulation architecture using a passive Fractal Impedance Controller (FIC), which does not depend upon an active viscous component for guaranteeing stability. Compared to a traditional impedance controller in ideal conditions (no delays and maximum communication bandwidth), our proposed method yields higher transparency in interaction and demonstrates superior dexterity and capability in our telemanipulation test scenarios. We also validate its performance with extreme delays up to 1 s and communication bandwidths as low as 10 Hz. All results validate a consistent stability when using the proposed controller in challenging conditions, regardless of operator expertise.
