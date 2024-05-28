@@ -95,7 +95,7 @@ td, th {border:hidden;}
 </tr>
 <!--  -->
 <tr>
-    <td style = ""><img src=""/></td>
+    <td style = ""><img src="/assets/img/HapFIC.gif"/></td>
     <td> <b> + HapFIC - An Adaptive Force/Position Controller for Safe Environment Interaction in Articulated Systems: </b> <br>
     <p align="justify">
         Haptic interaction is essential for the dynamic dexterity of animals, which seamlessly switch from an impedance to an admittance behaviour using the force feedback from their proprioception. However, this ability is extremely challenging to reproduce in robots, especially when dealing with complex interaction dynamics, distributed contacts, and contact switching. Current model-based controllers require accurate interaction modelling to account for contacts and stabilise the interaction. In this manuscript, we propose an adaptive force/position controller that exploits the fractal impedance controller's passivity and non-linearity to execute a finite search algorithm using the force feedback signal from the sensor at the end-effector. The method is computationally inexpensive, opening the possibility to deal with distributed contacts in the future. We evaluated the architecture in physics simulation and showed that the controller can robustly control the interaction with objects of different dynamics without violating the maximum allowable target forces or causing numerical instability even for very rigid objects. The proposed controller can also autonomously deal with contact switching and may find application in multiple fields such as legged locomotion, rehabilitation and assistive robotics.
