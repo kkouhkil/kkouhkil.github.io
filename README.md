@@ -59,6 +59,15 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
     <li><strong>Mission:</strong> To innovate and deliver cutting-edge safety protocols and technologies that prevent accidents and enhance productivity in workplaces integrating robotic systems.</li>
 </ul>    
 
+<h2>2) Market Analysis</h2>
+
+<ul>
+    <li><strong>Industry Overview:</strong> The global industrial robotics market is growing rapidly, with an increasing number of industries adopting automation to improve efficiency and reduce costs. This growth is accompanied by a rising demand for robust safety measures to protect human workers.</li> 
+    <li><strong>Target Market:</strong>
+    <li> Manufacturing: Automotive, electronics, and precision engineering sectors where robots are widely used. </li>
+    </li>
+</ul>
+
 </blockquote>
 </details>
 
