@@ -158,7 +158,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 - **Opportunity:** With the rise of customized production and flexible manufacturing lines, adaptable robotic systems are increasingly valuable.
 
 <details>
-<summary><b>Business Plan</b></summary><blockquote>
+<summary><b><font color="blue">Business Plan</font></b></summary><blockquote>
 
 <h2>1) Business Concept</h2>
 <ul>
@@ -267,7 +267,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 - **Opportunity:** The educational sector, vocational training institutions, and industrial companies looking to upskill their workforce are potential markets.
 
 <details>
-<summary><b>Business Plan</b></summary><blockquote>
+<summary><b><font color="blue">Business Plan</font></b></summary><blockquote>
 
 <h2>1) Business Concept</h2>
 <ul>
@@ -375,7 +375,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 - **Opportunity:** This area has potential for significant growth due to the rising demand for healthcare services and the need for technological advancements in patient care.
 
 <details>
-<summary><b>Business Plan</b></summary><blockquote>
+<summary><b><font color="blue">Business Plan</font></b></summary><blockquote>
 
 <h2>1) Business Concept</h2>
 <ul>
@@ -484,7 +484,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 - **Opportunity:** There's a significant market in consultancy for companies looking to modernize their operations with robotics, especially in sectors like logistics, manufacturing, and agriculture.
 
 <details>
-<summary><b>Business Plan</b></summary><blockquote>
+<summary><b><font color="blue">Business Plan</font></b></summary><blockquote>
 
 <h2>1) Business Concept</h2>
 <ul>
