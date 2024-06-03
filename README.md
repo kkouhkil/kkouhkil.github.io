@@ -48,6 +48,10 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 - **Concept:** This involves creating a set of guidelines and technologies (like proximity sensors, AI algorithms for predictive behavior, and emergency stop mechanisms) that ensure human-robot interactions are safe, especially in shared workspaces.
 - **Market Need:** As industries increasingly adopt automation, there's a growing demand for safety protocols to prevent accidents. This is particularly pertinent in sectors like manufacturing, logistics, and warehousing, where the integration of robots is rapidly expanding.
 - **Opportunity:** The increasing emphasis on workplace safety regulations globally provides a strong market for advanced safety solutions in robotics.
+<details>
+  <summary>Business Plan</summary>
+ 
+</details>  
 
 ## 2) Customizable Human-Robot Collaboration Systems:
 - **Concept:** Designing robots capable of learning and adapting to human workers' styles and behaviors. These systems would use machine learning and sensor data to modify their actions for more effective collaboration.
