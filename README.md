@@ -82,13 +82,20 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 
 <h2>3) Product Development Plan</h2>
     <ul>
-    <li> Product Features: </li>
-        <ul>
-            <li><em>Proximity Sensors:</em> To detect human presence and maintain safe distances.</li>
-            <li><em>AI Algorithms:</em> For predictive behavior analysis to anticipate potential safety breaches.</li>
-            <li><em>Emergency Stop Mechanisms:</em> Instantly halting robot operations in case of an emergency.</li>
-            <li><em>User-Friendly Interface:</em> Simplifying the integration and monitoring of safety protocols.</li>
-        </ul>
+        <li> <strong>Product Features:</strong></li>
+            <ul>
+                <li><em>Proximity Sensors:</em> To detect human presence and maintain safe distances.</li>
+                <li><em>AI Algorithms:</em> For predictive behavior analysis to anticipate potential safety breaches.</li>
+                <li><em>Emergency Stop Mechanisms:</em> Instantly halting robot operations in case of an emergency.</li>
+                <li><em>User-Friendly Interface:</em> Simplifying the integration and monitoring of safety protocols.</li>
+            </ul>
+        <li> <strong>Development Phases:</strong></li>
+            <ul>
+                <li><em> 1) Research and Development:</em> Conduct thorough research on existing safety technologies and identify areas for innovation. Develop initial prototypes and test in controlled environments.</li>
+                <li><em> 2) Pilot Testing:</em>  Implement prototypes in selected industrial settings to gather real-world data and feedback.</li>
+                <li><em> 3) Product Refinement:</em>  Based on pilot testing results, refine and optimize the safety solutions.</li>
+                <li><em> 4) Commercial Launch:</em>  Launch the final product to the market, accompanied by comprehensive user training and support.</li>
+            </ul>
     </ul>
 
 <!-- <li><strong></strong>
