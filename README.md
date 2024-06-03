@@ -173,7 +173,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
     <li><strong>Mission:</strong> To innovate and deliver cutting-edge, customizable robotic systems that enhance the capabilities of human workers through effective collaboration.</li>
 </ul>    
 
-<!-- <h2>2) Market Analysis</h2>
+<h2>2) Market Analysis</h2>
 
 <ul>
     <li><strong>Industry Overview:</strong> The industrial robotics market is rapidly expanding as automation becomes a critical component of manufacturing and other sectors. The need for robots that can adapt to dynamic human tasks is increasing, particularly in industries with complex and variable processes.</li> 
@@ -194,7 +194,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
     <li> <strong>Existing solutions often involve rigid, pre-programmed robots. Our competitive advantage is the ability to provide adaptive, learning-based systems that offer greater flexibility and efficiency. </li>
 </ul>
 
-<h2>3) Product Development Plan</h2>
+<!-- <h2>3) Product Development Plan</h2>
     <ul>
         <li> <strong>Product Features:</strong></li>
             <ul>
@@ -210,9 +210,9 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
                 <li><em> 3) Product Refinement:<em> Enhance the product based on pilot testing results.</li>
                 <li><em> 4) Commercial Launch:<em> Roll out the final product with comprehensive training and support services.</li>
             </ul>
-    </ul>
+    </ul> -->
 
-<h2>4) Operational Strategy</h2>
+<!-- <h2>4) Operational Strategy</h2>
     <ul>
         <li> <strong>Operational Plan:</strong></li>
             <ul>
@@ -227,9 +227,9 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
                 <li>Pilot testing in 3 different industrial settings within 18 months.</li>
                 <li>Commercial launch by the end of 24 months.</li>
             </ul>
-    </ul>
+    </ul> -->
 
-<h2>5) Financial Projections</h2>
+<!-- <h2>5) Financial Projections</h2>
     <ul>
         <li> <strong>Revenue Streams:</strong></li>
             <ul>
@@ -237,9 +237,9 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
                 <li>Subscription-based software updates and maintenance.</li>
                 <li>Consultancy services for tailored integration solutions.</li>
             </ul>
-    </ul>
+    </ul> -->
 
-<h2>6) Marketing Strategy</h2>
+<!-- <h2>6) Marketing Strategy</h2>
     <ul>
         <li> <strong>Marketing Objectives:</strong></li>
             <ul>
