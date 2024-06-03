@@ -77,6 +77,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
             <li>Solutions that can be easily integrated into existing robotic systems.</li>
         </ul>
     </li>
+    <li> <strong>Competitive Landscape:</strong> Current competitors primarily offer basic safety features. Our competitive advantage lies in integrating advanced AI and predictive algorithms to provide superior safety solutions. </li>
 </ul>
 
 <!-- <li><strong></strong>
