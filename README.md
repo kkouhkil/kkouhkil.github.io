@@ -70,7 +70,22 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
             <li> <em>Healthcare:</em> Medical facilities using robots for patient care and surgical assistance.</li>
         </ul>
     </li>
+    <li><strong>Market Needs:</strong>
+        <ul>
+            <li>Enhanced safety protocols to prevent accidents in environments where humans and robots interact.</li>
+            <li>Compliance with stringent workplace safety regulations.</li>
+            <li>Solutions that can be easily integrated into existing robotic systems.</li>
+        </ul>
+    </li>
 </ul>
+
+<!-- <li><strong></strong>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+</li> -->
 
 </blockquote>
 </details>
