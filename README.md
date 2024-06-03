@@ -173,7 +173,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
     <li><strong>Mission:</strong> To innovate and deliver cutting-edge, customizable robotic systems that enhance the capabilities of human workers through effective collaboration.</li>
 </ul>    
 
-<h2>2) Market Analysis</h2>
+<!-- <h2>2) Market Analysis</h2>
 
 <ul>
     <li><strong>Industry Overview:</strong> The industrial robotics market is rapidly expanding as automation becomes a critical component of manufacturing and other sectors. The need for robots that can adapt to dynamic human tasks is increasing, particularly in industries with complex and variable processes.</li> 
@@ -259,7 +259,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
                 <li>Provide comprehensive training and support to ensure customer satisfaction.</li>
                 <li>Regularly update the product with new features and improvements based on customer feedback.</li>
             </ul>
-    </ul>
+    </ul> -->
 
 </blockquote>
 </details>
