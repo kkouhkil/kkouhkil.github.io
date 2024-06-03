@@ -58,7 +58,7 @@ Our company, SafeBot Solutions, aims to develop and implement advanced safety pr
 To be the leading provider of comprehensive safety solutions that facilitate seamless and secure human-robot collaboration across various industries.
 - Mission:
 To innovate and deliver cutting-edge safety protocols and technologies that prevent accidents and enhance productivity in workplaces integrating robotic systems.
-<details>
+</details>
 </details>  
 
 ## 2) Customizable Human-Robot Collaboration Systems:
