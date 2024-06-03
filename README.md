@@ -194,23 +194,23 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
     <li> <strong>Existing solutions often involve rigid, pre-programmed robots. Our competitive advantage is the ability to provide adaptive, learning-based systems that offer greater flexibility and efficiency. </li>
 </ul>
 
-<!-- <h2>3) Product Development Plan</h2>
+<h2>3) Product Development Plan</h2>
     <ul>
         <li> <strong>Product Features:</strong></li>
             <ul>
-                <li><em>Proximity Sensors:</em> To detect human presence and maintain safe distances.</li>
-                <li><em>AI Algorithms:</em> For predictive behavior analysis to anticipate potential safety breaches.</li>
-                <li><em>Emergency Stop Mechanisms:</em> Instantly halting robot operations in case of an emergency.</li>
-                <li><em>User-Friendly Interface:</em> Simplifying the integration and monitoring of safety protocols.</li>
+                <li><em>Machine Learning Capabilities:<em> Robots that learn from human actions and adapt their behavior accordingly.</li>
+                <li><em>Advanced Sensors:<em> To capture detailed data about the environment and human movements.</li>
+                <li><em>User-Friendly Programming Interface:<em> Allowing easy customization and integration of robots into existing workflows.</li>
+                <li><em>Real-Time Adaptation:<em> Robots can adjust their actions in real-time based on sensor data and machine learning algorithms.</li>
             </ul>
         <li> <strong>Development Phases:</strong></li>
             <ul>
-                <li><em> 1) Research and Development:</em> Conduct thorough research on existing safety technologies and identify areas for innovation. Develop initial prototypes and test in controlled environments.</li>
-                <li><em> 2) Pilot Testing:</em>  Implement prototypes in selected industrial settings to gather real-world data and feedback.</li>
-                <li><em> 3) Product Refinement:</em>  Based on pilot testing results, refine and optimize the safety solutions.</li>
-                <li><em> 4) Commercial Launch:</em>  Launch the final product to the market, accompanied by comprehensive user training and support.</li>
+                <li><em> 1) Research and Development:<em> Develop initial prototypes with machine learning and sensor integration.</li>
+                <li><em> 2) Pilot Testing:<em> Deploy prototypes in selected industries to gather data and feedback.</li>
+                <li><em> 3) Product Refinement:<em> Enhance the product based on pilot testing results.</li>
+                <li><em> 4) Commercial Launch:<em> Roll out the final product with comprehensive training and support services.</li>
             </ul>
-    </ul> -->
+    </ul>
 
 <!-- <h2>4) Operational Strategy</h2>
     <ul>
