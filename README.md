@@ -61,7 +61,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
     <li><strong>Vision:</strong> To be the leading provider of comprehensive safety solutions that facilitate seamless and secure human-robot collaboration across various industries.</li>
     <li><strong>Mission:</strong> To innovate and deliver cutting-edge safety protocols and technologies that prevent accidents and enhance productivity in workplaces integrating robotic systems.</li>
 </ul>    
-</details>
+</details></blockquote>
 
 <h2>2) Market Analysis</h2>
 
