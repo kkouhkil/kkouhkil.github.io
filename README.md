@@ -65,7 +65,9 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
     <li><strong>Industry Overview:</strong> The global industrial robotics market is growing rapidly, with an increasing number of industries adopting automation to improve efficiency and reduce costs. This growth is accompanied by a rising demand for robust safety measures to protect human workers.</li> 
     <li><strong>Target Market:</strong>
         <ul>
-            <li> Manufacturing: Automotive, electronics, and precision engineering sectors where robots are widely used. </li>
+            <li> <em>Manufacturing:</em> Automotive, electronics, and precision engineering sectors where robots are widely used. </li>
+            <li> <em>Logistics and Warehousing:</em> Facilities employing robots for tasks like sorting, packing, and inventory management.</li>
+            <li> <em>Healthcare:</em> Medical facilities using robots for patient care and surgical assistance.</li>
         </ul>
     </li>
 </ul>
