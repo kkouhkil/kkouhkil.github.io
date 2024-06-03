@@ -43,6 +43,12 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
  - SSLC (*Staff Student Liaison Committee*) Student Representative | University of Edinburgh (2019 -2021)
  - BARC (*Birmingham Autonomous Robotic Club*) Robotic Software Engineer | Uniersity of Birmingham (2014 - 2015)
 
+## Robotics Entrepreneurship Innovations
+# 1) Development of Advanced Safety Protocols for Human-Robot Interaction:
+- **Concept:** This involves creating a set of guidelines and technologies (like proximity sensors, AI algorithms for predictive behavior, and emergency stop mechanisms) that ensure human-robot interactions are safe, especially in shared workspaces.
+- **Market Need:** As industries increasingly adopt automation, there's a growing demand for safety protocols to prevent accidents. This is particularly pertinent in sectors like manufacturing, logistics, and warehousing, where the integration of robots is rapidly expanding.
+- **Opportunity:** The increasing emphasis on workplace safety regulations globally provides a strong market for advanced safety solutions in robotics.
+
 ## Research and Publication
 
 <style>
