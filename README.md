@@ -44,27 +44,27 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
  - BARC (*Birmingham Autonomous Robotic Club*) Robotic Software Engineer | Uniersity of Birmingham (2014 - 2015)
 
 ## Robotics Entrepreneurship Innovations
-# 1) Development of Advanced Safety Protocols for Human-Robot Interaction:
+## 1) Development of Advanced Safety Protocols for Human-Robot Interaction:
 - **Concept:** This involves creating a set of guidelines and technologies (like proximity sensors, AI algorithms for predictive behavior, and emergency stop mechanisms) that ensure human-robot interactions are safe, especially in shared workspaces.
 - **Market Need:** As industries increasingly adopt automation, there's a growing demand for safety protocols to prevent accidents. This is particularly pertinent in sectors like manufacturing, logistics, and warehousing, where the integration of robots is rapidly expanding.
 - **Opportunity:** The increasing emphasis on workplace safety regulations globally provides a strong market for advanced safety solutions in robotics.
 
-# 2) Customizable Human-Robot Collaboration Systems:
+## 2) Customizable Human-Robot Collaboration Systems:
 - **Concept:** Designing robots capable of learning and adapting to human workers' styles and behaviors. These systems would use machine learning and sensor data to modify their actions for more effective collaboration.
 - **Market Need:** In sectors like automotive manufacturing, electronics, and precision engineering, there's a demand for robotic systems that can adapt to varied and changing tasks, while working in tandem with human workers.
 - **Opportunity:** With the rise of customized production and flexible manufacturing lines, adaptable robotic systems are increasingly valuable.
 
-# 3) Robotics Training and Simulation Software:
+## 3) Robotics Training and Simulation Software:
 - **Concept:** Developing immersive training programs using VR/AR to simulate realistic human-robot interaction scenarios. This software would train users in operating and collaborating with robots safely and efficiently.
 - **Market Need:** There's a growing need for skilled workers in robotics operation and maintenance, especially in industries transitioning towards automation.
 - **Opportunity:** The educational sector, vocational training institutions, and industrial companies looking to upskill their workforce are potential markets.
 
-# 4) Safety-Enhanced Robotic Solutions for Healthcare:
+## 4) Safety-Enhanced Robotic Solutions for Healthcare:
 - **Concept:** Creating robots specifically designed to assist in healthcare settings, equipped with features for patient safety, precision tasks, and hygiene compliance.
 - **Market Need:** The healthcare sector is increasingly interested in employing robots for tasks like surgical assistance, patient care, and sanitation, particularly given the challenges of aging populations and labor shortages.
 - **Opportunity:** This area has potential for significant growth due to the rising demand for healthcare services and the need for technological advancements in patient care.
 
-# 5) Consultancy Services for Robotic System Integration:
+## 5) Consultancy Services for Robotic System Integration:
 - **Concept:** Providing expert guidance on integrating robotic systems into business processes, including planning, implementation, and training for safe and effective human-robot collaboration.
 - **Market Need:** Many businesses, especially small and medium-sized enterprises (SMEs), lack the expertise to integrate robotics into their operations effectively.
 - **Opportunity:** There's a significant market in consultancy for companies looking to modernize their operations with robotics, especially in sectors like logistics, manufacturing, and agriculture.
