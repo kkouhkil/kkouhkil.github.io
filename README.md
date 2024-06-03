@@ -54,7 +54,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 
 <h2>1) Business Concept</h2>
 <ul>
-    <li><strong>Overview:</strong> Our company, <em>SafeBot Solutions</em>, aims to develop and implement advanced safety protocols for human-robot interaction in industrial settings. Our solutions will encompass state-of-the-art technologies such as proximity sensors, AI algorithms for predictive behavior, and emergency stop mechanisms to ensure the highest levels of safety in shared human-robot workspaces.</li>
+    <li><strong>Overview:</strong> The proposed company, <em>SafeBot Solutions</em>, aims to develop and implement advanced safety protocols for human-robot interaction in industrial settings. Our solutions will encompass state-of-the-art technologies such as proximity sensors, AI algorithms for predictive behavior, and emergency stop mechanisms to ensure the highest levels of safety in shared human-robot workspaces.</li>
     <li><strong>Vision:</strong> To be the leading provider of comprehensive safety solutions that facilitate seamless and secure human-robot collaboration across various industries.</li>
     <li><strong>Mission:</strong> To innovate and deliver cutting-edge safety protocols and technologies that prevent accidents and enhance productivity in workplaces integrating robotic systems.</li>
 </ul>    
@@ -162,7 +162,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 
 <h2>1) Business Concept</h2>
 <ul>
-    <li><strong>Overview:</strong> Our company, <em>FlexiCollab Robotics</em>, aims to design and develop robots capable of learning and adapting to human workers' styles and behaviors. By leveraging machine learning and sensor data, our robots will modify their actions to enhance human-robot collaboration in various industrial settings.</li>
+    <li><strong>Overview:</strong> The proposed company, <em>FlexiCollab Robotics</em>, aims to design and develop robots capable of learning and adapting to human workers' styles and behaviors. By leveraging machine learning and sensor data, our robots will modify their actions to enhance human-robot collaboration in various industrial settings.</li>
     <li><strong>Vision:</strong> To be the leading provider of adaptive robotic solutions that seamlessly integrate with human workflows, maximizing efficiency and productivity.</li>
     <li><strong>Mission:</strong> To innovate and deliver cutting-edge, customizable robotic systems that enhance the capabilities of human workers through effective collaboration.</li>
 </ul>    
@@ -271,7 +271,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 
 <h2>1) Business Concept</h2>
 <ul>
-    <li><strong>Overview:</strong> Our company, <em>RoboSimTech</em>, aims to develop immersive training programs using Virtual Reality (VR) and Augmented Reality (AR) to simulate realistic human-robot interaction scenarios. This software will train users to operate and collaborate with robots safely and efficiently.</li>
+    <li><strong>Overview:</strong> The proposed company, <em>RoboSimTech</em>, aims to develop immersive training programs using Virtual Reality (VR) and Augmented Reality (AR) to simulate realistic human-robot interaction scenarios. This software will train users to operate and collaborate with robots safely and efficiently.</li>
     <li><strong>Vision:</strong> To become the leading provider of innovative and immersive training solutions that equip workers with the skills necessary for effective human-robot collaboration.</li>
     <li><strong>Mission:</strong> To create state-of-the-art VR/AR training software that enhances the competency and safety of workers in industries transitioning towards automation.</li>
 </ul>    
@@ -379,7 +379,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 
 <h2>1) Business Concept</h2>
 <ul>
-    <li><strong>Overview:</strong> Our company, <em>MedSafe Robotics</em>, aims to develop robots specifically designed for healthcare settings, equipped with features that prioritize patient safety, precision tasks, and hygiene compliance. These robots will assist in various healthcare applications, such as surgical assistance, patient care, and sanitation.</li>
+    <li><strong>Overview:</strong> The proposed company, <em>MedSafe Robotics</em>, aims to develop robots specifically designed for healthcare settings, equipped with features that prioritize patient safety, precision tasks, and hygiene compliance. These robots will assist in various healthcare applications, such as surgical assistance, patient care, and sanitation.</li>
     <li><strong>Vision:</strong> To be the leading provider of innovative robotic solutions that enhance patient safety and care quality in healthcare settings.</li>
     <li><strong>Mission:</strong> To design and deliver state-of-the-art robotic systems that support healthcare professionals by improving safety, efficiency, and hygiene standards in medical environments.</li>
 </ul>    
@@ -486,9 +486,13 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 <details>
 <summary><b><font color="blue">Business Plan</font></b></summary><blockquote>
 
+  <details><summary>World</summary><blockquote>
+    :smile:
+  </blockquote></details>
+
 <h2>1) Business Concept</h2>
 <ul>
-    <li><strong>Overview:</strong> Our company, <em>RoboIntegrate Solutions</em>, aims to provide expert consultancy services for integrating robotic systems into business processes. Our services will include planning, implementation, and training for safe and effective human-robot collaboration.</li>
+    <li><strong>Overview:</strong> The proposed company, <em>RoboIntegrate Solutions</em>, aims to provide expert consultancy services for integrating robotic systems into business processes. Our services will include planning, implementation, and training for safe and effective human-robot collaboration.</li>
     <li><strong>Vision:</strong> To be the leading consultancy firm specializing in seamless and efficient robotic system integration for businesses of all sizes.</li>
     <li><strong>Mission:</strong> To deliver comprehensive consultancy services that enable businesses to harness the full potential of robotic systems, enhancing their productivity and operational efficiency.</li>
 </ul>    
