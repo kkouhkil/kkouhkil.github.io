@@ -174,7 +174,6 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 </ul>    
 
 <h2>2) Market Analysis</h2>
-
 <ul>
     <li><strong>Industry Overview:</strong> The industrial robotics market is rapidly expanding as automation becomes a critical component of manufacturing and other sectors. The need for robots that can adapt to dynamic human tasks is increasing, particularly in industries with complex and variable processes.</li> 
     <li><strong>Target Market:</strong>
@@ -191,7 +190,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
             <li>Improved productivity and efficiency in manufacturing processes.</li>
         </ul>
     </li>
-    <li> <strong>Existing solutions often involve rigid, pre-programmed robots. Our competitive advantage is the ability to provide adaptive, learning-based systems that offer greater flexibility and efficiency. </li>
+    <li> Existing solutions often involve rigid, pre-programmed robots. Our competitive advantage is the ability to provide adaptive, learning-based systems that offer greater flexibility and efficiency. </li>
 </ul>
 
 <!-- <h2>3) Product Development Plan</h2>
