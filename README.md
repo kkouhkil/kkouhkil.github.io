@@ -59,12 +59,6 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 
 </details>
 
-  <!-- ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets -->
-
 ## 2) Customizable Human-Robot Collaboration Systems:
 - **Concept:** Designing robots capable of learning and adapting to human workers' styles and behaviors. These systems would use machine learning and sensor data to modify their actions for more effective collaboration.
 - **Market Need:** In sectors like automotive manufacturing, electronics, and precision engineering, there's a demand for robotic systems that can adapt to varied and changing tasks, while working in tandem with human workers.
