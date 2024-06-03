@@ -50,13 +50,13 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 - **Opportunity:** The increasing emphasis on workplace safety regulations globally provides a strong market for advanced safety solutions in robotics.
 
 <details>
-  <summary><b>Business Plan</b></summary>
+  <summary>Click to expand!</summary>
 
-## Business Concept
-- **Overview:** Our company, *SafeBot Solutions*, aims to develop and implement advanced safety protocols for human-robot interaction in industrial settings. Our solutions will encompass state-of-the-art technologies such as proximity sensors, AI algorithms for predictive behavior, and emergency stop mechanisms to ensure the highest levels of safety in shared human-robot workspaces.
-- **Vision:** To be the leading provider of comprehensive safety solutions that facilitate seamless and secure human-robot collaboration across various industries.
-- **Mission:** To innovate and deliver cutting-edge safety protocols and technologies that prevent accidents and enhance productivity in workplaces integrating robotic systems.
-
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
 </details>
 
 ## 2) Customizable Human-Robot Collaboration Systems:
