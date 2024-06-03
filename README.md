@@ -173,26 +173,26 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
     <li><strong>Mission:</strong> To innovate and deliver cutting-edge, customizable robotic systems that enhance the capabilities of human workers through effective collaboration.</li>
 </ul>    
 
-<!-- <h2>2) Market Analysis</h2>
+<h2>2) Market Analysis</h2>
 
 <ul>
-    <li><strong>Industry Overview:</strong> The global industrial robotics market is growing rapidly, with an increasing number of industries adopting automation to improve efficiency and reduce costs. This growth is accompanied by a rising demand for robust safety measures to protect human workers.</li> 
+    <li><strong>Industry Overview:</strong> The industrial robotics market is rapidly expanding as automation becomes a critical component of manufacturing and other sectors. The need for robots that can adapt to dynamic human tasks is increasing, particularly in industries with complex and variable processes.</li> 
     <li><strong>Target Market:</strong>
         <ul>
-            <li> <em>Manufacturing:</em> Automotive, electronics, and precision engineering sectors where robots are widely used. </li>
-            <li> <em>Logistics and Warehousing:</em> Facilities employing robots for tasks like sorting, packing, and inventory management.</li>
-            <li> <em>Healthcare:</em> Medical facilities using robots for patient care and surgical assistance.</li>
+            <li> <em>Automotive Manufacturing:<em> High demand for robots that can work alongside humans in assembly lines.</li>
+            <li> <em>Electronics:<em> Precision tasks that require adaptable robotic systems.</li>
+            <li> <em>Precision Engineering:<em> Customizable robots to assist in detailed and intricate tasks.</li>
         </ul>
     </li>
     <li><strong>Market Needs:</strong>
         <ul>
-            <li>Enhanced safety protocols to prevent accidents in environments where humans and robots interact.</li>
-            <li>Compliance with stringent workplace safety regulations.</li>
-            <li>Solutions that can be easily integrated into existing robotic systems.</li>
+            <li>Flexible robotic systems that can quickly adapt to changing tasks.</li>
+            <li>Enhanced collaboration between human workers and robots.</li>
+            <li>Improved productivity and efficiency in manufacturing processes.</li>
         </ul>
     </li>
-    <li> <strong>Competitive Landscape:</strong> Current competitors primarily offer basic safety features. Our competitive advantage lies in integrating advanced AI and predictive algorithms to provide superior safety solutions. </li>
-</ul> -->
+    <li> <strong>Existing solutions often involve rigid, pre-programmed robots. Our competitive advantage is the ability to provide adaptive, learning-based systems that offer greater flexibility and efficiency. </li>
+</ul>
 
 <!-- <h2>3) Product Development Plan</h2>
     <ul>
