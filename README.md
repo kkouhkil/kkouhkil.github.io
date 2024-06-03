@@ -50,7 +50,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 - **Opportunity:** The increasing emphasis on workplace safety regulations globally provides a strong market for advanced safety solutions in robotics.
 
 <details>
-<summary><b>Business Plan</b></summary><blockquote>
+<summary><b><font color="blue">Business Plan</font></b></summary><blockquote>
 
 <h2>1) Business Concept</h2>
 <ul>
