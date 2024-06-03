@@ -98,6 +98,23 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
             </ul>
     </ul>
 
+<h2>4) Operational Strategy</h2>
+    <ul>
+        <li> <strong>Operational Plan:</strong></li>
+            <ul>
+                <li><em>R&D Team:</em> Comprising experts in robotics, AI, and safety engineering.</li>
+                <li><em>Manufacturing:</em> Partnering with established manufacturers for the production of hardware components.</li>
+                <li><em>Quality Assurance:</em> Implementing rigorous testing protocols to ensure product reliability and safety.</li>
+                <li><em>Customer Support:</em> Offering 24/7 support services to assist clients with integration and troubleshooting.</li>
+            </ul>
+        <li> <strong>Key Milestones:</strong></li>
+            <ul>
+                <li>Completion of R&D phase within 12 months.</li>
+                <li>Pilot testing in 3 different industrial settings within 18 months.</li>
+                <li>Commercial launch by the end of 24 months.</li>
+            </ul>
+    </ul>
+
 <!-- <li><strong></strong>
     <ul>
         <li></li>
