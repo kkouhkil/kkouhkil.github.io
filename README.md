@@ -190,7 +190,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
             <li>Improved productivity and efficiency in manufacturing processes.</li>
         </ul>
     </li>
-    <li> Existing solutions often involve rigid, pre-programmed robots. Our competitive advantage is the ability to provide adaptive, learning-based systems that offer greater flexibility and efficiency. </li>
+    <li> <strong>Competitive Landscape:</strong> Existing solutions often involve rigid, pre-programmed robots. Our competitive advantage is the ability to provide adaptive, learning-based systems that offer greater flexibility and efficiency. </li>
 </ul>
 
 <!-- <h2>3) Product Development Plan</h2>
