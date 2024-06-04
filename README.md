@@ -28,7 +28,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 
 ## Work Experience
 <ul>
-    <li>Research Associate and Entrepreneurship Fellow | <p style="display:inline" align="right">University of Edinburgh (2021 - present)</p></li>
+    <li><p>Research Associate and Entrepreneurship Fellow | <span style="float: right;">University of Edinburgh (2021 - present)</span></p></li>
 </ul>    
 
 ### Projects
