@@ -191,12 +191,19 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 <details>
 <summary><b><font color="blue">Business Plan</font></b></summary><blockquote>
 
+<details><summary>Business Concept</summary><blockquote>
+
 <h2>1) Business Concept</h2>
 <ul>
     <li><strong>Overview:</strong> The proposed company, <em>FlexiCollab Robotics</em>, aims to design and develop robots capable of learning and adapting to human workers' styles and behaviors. By leveraging machine learning and sensor data, our robots will modify their actions to enhance human-robot collaboration in various industrial settings.</li>
     <li><strong>Vision:</strong> To be the leading provider of adaptive robotic solutions that seamlessly integrate with human workflows, maximizing efficiency and productivity.</li>
     <li><strong>Mission:</strong> To innovate and deliver cutting-edge, customizable robotic systems that enhance the capabilities of human workers through effective collaboration.</li>
 </ul>    
+
+</blockquote>
+</details>
+
+<details><summary>Market Analysis</summary><blockquote>
 
 <h2>2) Market Analysis</h2>
 
@@ -219,6 +226,11 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
     <li> <strong>Competitive Landscape:</strong> Existing solutions often involve rigid, pre-programmed robots. Our competitive advantage is the ability to provide adaptive, learning-based systems that offer greater flexibility and efficiency.</li>
 </ul>
 
+</blockquote>
+</details>
+
+<details><summary>Product Development Plan</summary><blockquote>
+
 <h2>3) Product Development Plan</h2>
     <ul>
         <li> <strong>Product Features:</strong></li>
@@ -238,6 +250,11 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
             </ul>
     </ul>
 
+</blockquote>
+</details>    
+
+<details><summary>Operational Strategy</summary><blockquote>
+
 <h2>4) Operational Strategy</h2>
     <ul>
         <li> <strong>Operational Plan:</strong></li>
@@ -255,6 +272,11 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
             </ul>
     </ul>
 
+</blockquote>
+</details>  
+
+<details><summary>Financial Projections</summary><blockquote>
+
 <h2>5) Financial Projections</h2>
     <ul>
         <li> <strong>Revenue Streams:</strong></li>
@@ -264,6 +286,11 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
                 <li>Consultancy services for tailored integration solutions.</li>
             </ul>
     </ul>
+
+</blockquote>
+</details>
+
+<details><summary>Marketing Strategy</summary><blockquote>
 
 <h2>6) Marketing Strategy</h2>
     <ul>
@@ -286,6 +313,9 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
                 <li>Regularly update the product with new features and improvements based on customer feedback.</li>
             </ul>
     </ul>
+
+</blockquote>
+</details>
     
 </blockquote>
 </details>
