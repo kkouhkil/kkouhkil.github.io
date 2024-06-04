@@ -740,7 +740,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 </blockquote>
 </details>
 
-## Robotics Application - Warehouse Automation Case Study
+## Robotic Application - Warehouse Automation Case Study
 ## Goal
 Robot control software that can constrain the working environment of the robots which can guarantee safety when it comes to proximate- or remote Physical Human-Robot-Interaction (HRI).
 
