@@ -764,7 +764,9 @@ Dual-arm **light object** manipulation and Human-Robot Cooperation (HRC)
 #### Scenario #2
 The mobile-base robot is used to navigate from initial location to target location whilst avoiding dynamic obstacles.
 
-<img src="/assets/img/single_arm_mobile_base.png" align="center" width="100%"/>
+<img src="/assets/img/single_arm_mobile_base_p1.png" align="center" width="100%"/>
+<img src="/assets/img/single_arm_mobile_base_p2.png" align="center" width="100%"/>
+<img src="/assets/img/single_arm_mobile_base_p3.png" align="center" width="100%"/>
 
 ## Research and Publication
 
