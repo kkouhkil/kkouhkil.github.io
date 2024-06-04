@@ -759,10 +759,10 @@ The work is tested on **mobile-base robots** and **robot manipulators** and the 
 ### Scenario #1
 The robots holding light/heavy object(s) for compliant and safe proximate human-robot interaction.
 
-<h3 style="text-align: center">Dual-arm Heavy Object Manipulation and Human-Robot Interaction (HRI)</h3>
+<h2 style="text-align: center">Dual-arm Heavy Object Manipulation and Human-Robot Interaction (HRI)</h2>
 <img src="/assets/img/dual_arm_box_manipulation.png" align="center" width="100%"/>
 
-<h3 style="text-align: center">Dual-arm Light Object Manipulation and Human-Robot Cooperation (HRC)</h3>
+<h2 style="text-align: center">Dual-arm Light Object Manipulation and Human-Robot Cooperation (HRC)</h2>
 <img src="/assets/img/dual_arm_wood_brick_manipulation.png" align="center" width="100%"/>
 
 ### Scenario #2
