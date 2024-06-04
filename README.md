@@ -752,7 +752,7 @@ The proposed and tested robot control (in research) can get implemented in exist
 
 The work is tested on **mobile-base robots** and **robot manipulators** and the results are as follows:
 
-#### Scenario #1
+### Scenario #1
 The robots holding light/heavy object(s) for compliant and safe proximate human-robot interaction.
 
 Dual-arm **heavy object** manipulation and Human-Robot Interaction (HRI)
@@ -761,7 +761,7 @@ Dual-arm **heavy object** manipulation and Human-Robot Interaction (HRI)
 Dual-arm **light object** manipulation and Human-Robot Cooperation (HRC)
 <img src="/assets/img/dual_arm_wood_brick_manipulation.png" align="center" width="100%"/>
 
-#### Scenario #2
+### Scenario #2
 The mobile-base robot is used to navigate from initial location to target location whilst avoiding dynamic obstacles.
 
 <img src="/assets/img/single_arm_mobile_base_p1.png" align="center" width="100%"/>
