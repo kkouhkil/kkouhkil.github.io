@@ -316,7 +316,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 
 </blockquote>
 </details>
-    
+
 </blockquote>
 </details>
 
@@ -330,12 +330,19 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 <details>
 <summary><b><font color="blue">Business Plan</font></b></summary><blockquote>
 
+<details><summary>Business Concept</summary><blockquote>
+
 <h2>1) Business Concept</h2>
 <ul>
     <li><strong>Overview:</strong> The proposed company, <em>RoboSimTech</em>, aims to develop immersive training programs using Virtual Reality (VR) and Augmented Reality (AR) to simulate realistic human-robot interaction scenarios. This software will train users to operate and collaborate with robots safely and efficiently.</li>
     <li><strong>Vision:</strong> To become the leading provider of innovative and immersive training solutions that equip workers with the skills necessary for effective human-robot collaboration.</li>
     <li><strong>Mission:</strong> To create state-of-the-art VR/AR training software that enhances the competency and safety of workers in industries transitioning towards automation.</li>
 </ul>    
+
+</blockquote>
+</details>
+
+<details><summary>Market Analysis</summary><blockquote>
 
 <h2>2) Market Analysis</h2>
 
@@ -358,6 +365,11 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
     <li> <strong>Competitive Landscape:</strong> Current training solutions are often limited to traditional methods such as manuals and classroom instruction. Our competitive advantage is the use of immersive VR/AR technology to provide realistic and engaging training experiences. </li>
 </ul>
 
+</blockquote>
+</details>
+
+<details><summary>Product Development Plan</summary><blockquote>
+
 <h2>3) Product Development Plan</h2>
     <ul>
         <li> <strong>Product Features:</strong></li>
@@ -376,6 +388,11 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
             </ul>
     </ul>
 
+</blockquote>
+</details>
+
+<details><summary>Operational Strategy</summary><blockquote>
+
 <h2>4) Operational Strategy</h2>
     <ul>
         <li> <strong>Operational Plan:</strong></li>
@@ -393,6 +410,11 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
             </ul>
     </ul>
 
+</blockquote>
+</details>
+
+<details><summary>Financial Projections</summary><blockquote>
+
 <h2>5) Financial Projections</h2>
     <ul>
         <li> <strong>Revenue Streams:</strong></li>
@@ -402,6 +424,11 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
                 <li>Custom content development and consultancy services.</li>
             </ul>
     </ul>
+
+</blockquote>
+</details>
+
+<details><summary>Marketing Strategy</summary><blockquote>
 
 <h2>6) Marketing Strategy</h2>
     <ul>
@@ -424,7 +451,10 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
                 <li>Regularly update the product with new features and improvements based on customer feedback.</li>
             </ul>
     </ul>
-    
+
+</blockquote>
+</details>
+
 </blockquote>
 </details>
 
@@ -438,12 +468,19 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 <details>
 <summary><b><font color="blue">Business Plan</font></b></summary><blockquote>
 
+<details><summary>Business Concept</summary><blockquote>
+
 <h2>1) Business Concept</h2>
 <ul>
     <li><strong>Overview:</strong> The proposed company, <em>MedSafe Robotics</em>, aims to develop robots specifically designed for healthcare settings, equipped with features that prioritize patient safety, precision tasks, and hygiene compliance. These robots will assist in various healthcare applications, such as surgical assistance, patient care, and sanitation.</li>
     <li><strong>Vision:</strong> To be the leading provider of innovative robotic solutions that enhance patient safety and care quality in healthcare settings.</li>
     <li><strong>Mission:</strong> To design and deliver state-of-the-art robotic systems that support healthcare professionals by improving safety, efficiency, and hygiene standards in medical environments.</li>
 </ul>    
+
+</blockquote>
+</details>
+
+<details><summary>Market Analysis</summary><blockquote>
 
 <h2>2) Market Analysis</h2>
 
@@ -467,6 +504,11 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
     <li> <strong>Competitive Landscape:</strong> Current solutions include basic robotic aids and surgical robots with limited safety and hygiene features. Our competitive advantage lies in integrating advanced safety and hygiene compliance features into our robotic systems.</li>
 </ul>
 
+</blockquote>
+</details>
+
+<details><summary>Product Development Plan</summary><blockquote>
+
 <h2>3) Product Development Plan</h2>
     <ul>
         <li> <strong>Product Features:</strong></li>
@@ -485,6 +527,11 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
             </ul>
     </ul>
 
+</blockquote>
+</details>
+
+<details><summary>Operational Strategy</summary><blockquote>
+
 <h2>4) Operational Strategy</h2>
     <ul>
         <li> <strong>Operational Plan:</strong></li>
@@ -502,6 +549,11 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
             </ul>
     </ul>
 
+</blockquote>
+</details>
+
+<details><summary>Financial Projections</summary><blockquote>
+
 <h2>5) Financial Projections</h2>
     <ul>
         <li> <strong>Revenue Streams:</strong></li>
@@ -511,6 +563,11 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
                 <li>Custom solutions and consultancy services.</li>
             </ul>
     </ul>
+
+</blockquote>
+</details>
+
+<details><summary>Marketing Strategy</summary><blockquote>
 
 <h2>6) Marketing Strategy</h2>
     <ul>
@@ -533,6 +590,9 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
                 <li>Regularly update the product with new features and improvements based on customer feedback.</li>
             </ul>
     </ul>
+    
+</blockquote>
+</details>
     
 </blockquote>
 </details>
