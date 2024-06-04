@@ -757,14 +757,14 @@ The work is tested on **mobile-base robots** and **robot manipulators** and the 
 ### Scenario #1
 The robots holding light/heavy object(s) for compliant and safe proximate human-robot interaction.
 
-### Dual-arm **heavy object** manipulation & Human-Robot Interaction (HRI)
+### Dual-arm Heavy Object Manipulation and Human-Robot Interaction (HRI)
 <img src="/assets/img/dual_arm_box_manipulation.png" align="center" width="100%"/>
 
-### Dual-arm **light object** manipulation & Human-Robot Cooperation (HRC)
+### Dual-arm Light Object Manipulation and Human-Robot Cooperation (HRC)
 <img src="/assets/img/dual_arm_wood_brick_manipulation.png" align="center" width="100%"/>
 
 ### Scenario #2
-The mobile-base robot is used to navigate from initial location to target location whilst avoiding dynamic obstacles.
+### Mobile-base Robot Navigation and Dynamic Obstacle Avoidance
 
 <img src="/assets/img/single_arm_mobile_base_p1.png" align="center" width="100%"/>
 <img src="/assets/img/single_arm_mobile_base_p2.png" align="center" width="100%"/>
