@@ -741,23 +741,27 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 </details>
 
 ## Robotics Application - Warehouse Automation Case Study
-### Goal
+## Goal
 Robot control software that can constrain the working environment of the robots which can guarantee safety when it comes to proximate- or remote Physical Human-Robot-Interaction (HRI).
 
-### Target
+## Target
 Warehouse companies where goods are required to get manipulated by human(s) so they can get sorted, packed, carried and etc., and robots can assist human(s) by sharing the same working environment by guaranteeing safety when it comes to Human-Robot-Collaboration so robot(s) can take care of the repetitive tedious tasks by assisting human(s) in daily warehouse chores.
 
-### Proposed Solution
+## Proposed Solution
 The proposed and tested robot control (in research) can get implemented in existing various robot(s) in the warehouse to showcase the capability of the novel robot control and bring human(s) and robot(s) together to accomplish tasks. The proposed method is tested and gave promising results in both simulation (using simulated robot(s)) and real-world robot, and the work is also published by high-level journal(s) and conference(s).
 
 The work is tested on **mobile-base robots** and **robot manipulators** and the results are as follows:
 
-#### Scenario No.1
-The robots holding heavy object for compliant and safe proximate human-robot interaction.
+#### Scenario #1
+The robots holding light/heavy object(s) for compliant and safe proximate human-robot interaction.
 
 <img src="/assets/img/dual_arm_box_manipulation.png" align="center" width="100%"/>
+<img src="/assets/img/dual_arm_wood_brick_manipulation.png" align="center" width="100%"/>
 
+#### Scenario #2
+The mobile-base robot is used to navigate from initial location to target location whilst avoiding dynamic obstacles.
 
+<img src="/assets/img/single_arm_mobile_base.png" align="center" width="100%"/>
 
 ## Research and Publication
 
