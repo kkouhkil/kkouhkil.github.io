@@ -39,10 +39,10 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 
 ## Activities
 <ul>
-    <li>IPAB (*Institute of Perception, Action and Behaviour*) Student Representative | University of Edinburgh (2019 - 2021)</li>
-    <li>SSLC (*Staff Student Liaison Committee*) Student Representative | University of Edinburgh (2019 -2021)</li>
+    <li>IPAB (<em>Institute of Perception, Action and Behaviour</em>) Student Representative | University of Edinburgh (2019 - 2021)</li>
+    <li>SSLC (<em>Staff Student Liaison Committee</em>) Student Representative | University of Edinburgh (2019 -2021)</li>
     <li>Teaching Support Provider | University of Edinburgh (2017 - 2021)</li>
-    <li>BARC (*Birmingham Autonomous Robotic Club*) Robotic Software Engineer | Uniersity of Birmingham (2014 - 2015)</li>
+    <li>BARC (<em>Birmingham Autonomous Robotic Club</em>) Robotic Software Engineer | Uniersity of Birmingham (2014 - 2015)</li>
 </ul>   
 
 ## Robotics Entrepreneurship Innovations
