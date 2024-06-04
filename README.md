@@ -766,7 +766,7 @@ The robots holding light/heavy object(s) for compliant and safe proximate human-
 <img src="/assets/img/dual_arm_wood_brick_manipulation.png" align="center" width="100%"/>
 
 ### Scenario #2
-### Mobile-base Robot Navigation and Dynamic Obstacle Avoidance
+<h2 style="text-align: center">Mobile-base Robot Navigation and Dynamic Obstacle Avoidance</h2>
 
 <img src="/assets/img/single_arm_mobile_base_p1.png" align="center" width="100%"/>
 <img src="/assets/img/single_arm_mobile_base_p2.png" align="center" width="100%"/>
