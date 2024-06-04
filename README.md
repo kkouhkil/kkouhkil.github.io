@@ -68,8 +68,7 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 
 <h2>2) Market Analysis</h2>
 
-</blockquote>
-</details>
+
 <ul>
     <li><strong>Industry Overview:</strong> The global industrial robotics market is growing rapidly, with an increasing number of industries adopting automation to improve efficiency and reduce costs. This growth is accompanied by a rising demand for robust safety measures to protect human workers.</li> 
     <li><strong>Target Market:</strong>
@@ -88,6 +87,9 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
     </li>
     <li> <strong>Competitive Landscape:</strong> Current competitors primarily offer basic safety features. Our competitive advantage lies in integrating advanced AI and predictive algorithms to provide superior safety solutions. </li>
 </ul>
+
+</blockquote>
+</details>
 
 <details><summary>Product Development Plan</summary><blockquote>
 
