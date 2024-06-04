@@ -45,11 +45,6 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
     <li>BARC (*Birmingham Autonomous Robotic Club*) Robotic Software Engineer | Uniersity of Birmingham (2014 - 2015)</li>
 </ul>   
 
- <!-- - Teaching Support Provider | University of Edinburgh (2017 - 2021)     
- - IPAB (*Institute of Perception, Action and Behaviour*) Student Representative | University of Edinburgh (2019 - 2021)
- - SSLC (*Staff Student Liaison Committee*) Student Representative | University of Edinburgh (2019 -2021)
- - BARC (*Birmingham Autonomous Robotic Club*) Robotic Software Engineer | Uniersity of Birmingham (2014 - 2015) -->
-
 ## Robotics Entrepreneurship Innovations
 ## 1) Development of Advanced Safety Protocols for Human-Robot Interaction:
 - **Concept:** This involves creating a set of guidelines and technologies (like proximity sensors, AI algorithms for predictive behavior, and emergency stop mechanisms) that ensure human-robot interactions are safe, especially in shared workspaces.
