@@ -64,8 +64,12 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
 </blockquote>
 </details>
 
+<details><summary>Market Analysis</summary><blockquote>
+
 <h2>2) Market Analysis</h2>
 
+</blockquote>
+</details>
 <ul>
     <li><strong>Industry Overview:</strong> The global industrial robotics market is growing rapidly, with an increasing number of industries adopting automation to improve efficiency and reduce costs. This growth is accompanied by a rising demand for robust safety measures to protect human workers.</li> 
     <li><strong>Target Market:</strong>
@@ -85,6 +89,8 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
     <li> <strong>Competitive Landscape:</strong> Current competitors primarily offer basic safety features. Our competitive advantage lies in integrating advanced AI and predictive algorithms to provide superior safety solutions. </li>
 </ul>
 
+<details><summary>Product Development Plan</summary><blockquote>
+
 <h2>3) Product Development Plan</h2>
     <ul>
         <li> <strong>Product Features:</strong></li>
@@ -103,6 +109,11 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
             </ul>
     </ul>
 
+</blockquote>
+</details>
+
+<details><summary>Operational Strategy</summary><blockquote>
+
 <h2>4) Operational Strategy</h2>
     <ul>
         <li> <strong>Operational Plan:</strong></li>
@@ -120,6 +131,11 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
             </ul>
     </ul>
 
+</blockquote>
+</details>
+
+<details><summary>Financial Projections</summary><blockquote>
+
 <h2>5) Financial Projections</h2>
     <ul>
         <li> <strong>Revenue Streams:</strong></li>
@@ -129,6 +145,11 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
                 <li>Consultancy services for customized safety solutions.</li>
             </ul>
     </ul>
+
+</blockquote>
+</details>
+
+<details><summary>Marketing Strategy</summary><blockquote>
 
 <h2>6) Marketing Strategy</h2>
     <ul>
@@ -151,6 +172,9 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
                 <li>Regularly update the product with new features and improvements based on customer feedback.</li>
             </ul>
     </ul>
+
+</blockquote>
+</details>    
 
 </blockquote>
 </details>
