@@ -38,10 +38,17 @@ I am a highly motivated and experienced Research Associate (Post-doc) and Entrep
     - Carrying out extensive research and proposing control algorithms for proximate human-robot interaction/collaboration/cooperation using single-arm and dual-arm manipulators for real-world robotic applications
 
 ## Activities
- - Teaching Support Provider | University of Edinburgh (2017 - 2021)     
+<ul>
+    <li>IPAB (*Institute of Perception, Action and Behaviour*) Student Representative | University of Edinburgh (2019 - 2021)</li>
+    <li>SSLC (*Staff Student Liaison Committee*) Student Representative | University of Edinburgh (2019 -2021)</li>
+    <li>Teaching Support Provider | University of Edinburgh (2017 - 2021)</li>
+    <li>BARC (*Birmingham Autonomous Robotic Club*) Robotic Software Engineer | Uniersity of Birmingham (2014 - 2015)</li>
+</ul>   
+
+ <!-- - Teaching Support Provider | University of Edinburgh (2017 - 2021)     
  - IPAB (*Institute of Perception, Action and Behaviour*) Student Representative | University of Edinburgh (2019 - 2021)
  - SSLC (*Staff Student Liaison Committee*) Student Representative | University of Edinburgh (2019 -2021)
- - BARC (*Birmingham Autonomous Robotic Club*) Robotic Software Engineer | Uniersity of Birmingham (2014 - 2015)
+ - BARC (*Birmingham Autonomous Robotic Club*) Robotic Software Engineer | Uniersity of Birmingham (2014 - 2015) -->
 
 ## Robotics Entrepreneurship Innovations
 ## 1) Development of Advanced Safety Protocols for Human-Robot Interaction:
